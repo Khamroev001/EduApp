@@ -32,7 +32,7 @@ class SectionActivity : AppCompatActivity() {
 
         for (i in subjects){
             if (subjectname==i.name){
-                var subject=i
+                subject=i
             }
         }
 
